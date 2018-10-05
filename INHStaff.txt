@@ -38,7 +38,6 @@ Name	Affiliated unit	Position	Institution
 "Sjursen, Aslak Darre"	Department of Natural History	Principal engineer	Norwegian University of Science and Technology
 "Skavlan, Bård Jensen"	Department of Natural History	Engineer	Norwegian University of Science and Technology
 "Speed, James David Mervyn"	Department of Natural History	Associate professor	Norwegian University of Science and Technology
-	Department of Natural History	Researcher	Norwegian University of Science and Technology
 "Stenøien, Hans K."	Department of Natural History	Professor	Norwegian University of Science and Technology
 "Stur, Elisabeth"	Department of Natural History	Researcher	Norwegian University of Science and Technology
 "Thingstad, Per Gustav"	Department of Natural History	Associate professor	Norwegian University of Science and Technology
