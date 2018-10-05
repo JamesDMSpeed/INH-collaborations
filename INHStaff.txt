@@ -1,0 +1,49 @@
+Name	Affiliated unit	Position	Institution
+"Arnekleiv, Jo Vegar"	Department of Natural History	Researcher	Norwegian University of Science and Technology
+"Aspaas, Aina Mærk"	Department of Natural History	Principal engineer	Norwegian University of Science and Technology
+"Austrheim, Gunnar"	Department of Natural History	Professor	Norwegian University of Science and Technology
+"Bakken, Torkild"	Department of Natural History	Head of academic department	Norwegian University of Science and Technology
+"Bendiksby, Anna Marika"	Department of Natural History	Associate professor	Norwegian University of Science and Technology
+"Bieker, Vanessa Carina"	Department of Natural History	Research fellow	Norwegian University of Science and Technology
+"Boström, Erik"	Department of Natural History	Principal engineer	Norwegian University of Science and Technology
+"Daverdin, Marc"	Department of Natural History	Principal engineer	Norwegian University of Science and Technology
+"Davidsen, Jan Grimsrud"	Department of Natural History	Associate professor	Norwegian University of Science and Technology
+"Ekrem, Torbjørn"	Department of Natural History	Professor	Norwegian University of Science and Technology
+"Eldøy, Sindre Håvarstein"	Department of Natural History	Research fellow	Norwegian University of Science and Technology
+"Fandrem, Marte"	Department of Natural History	Research fellow	Norwegian University of Science and Technology
+"Finstad, Anders Gravbrøt"	Department of Natural History	Professor	Norwegian University of Science and Technology
+"Frisch, Andreas"	Department of Natural History	Researcher	Norwegian University of Science and Technology
+"Gagnås, Steinar"	Department of Natural History	Engineer	Norwegian University of Science and Technology
+"Gilbert, Marcus Thomas Pius"	Department of Natural History	Professor	Norwegian University of Science and Technology
+"Gätzschmann, Per"	Department of Natural History	Head engineer	Norwegian University of Science and Technology
+"Hassel, Kristian"	Department of Natural History	Associate professor	Norwegian University of Science and Technology
+"Haugen, Grethe Sundet"	Department of Natural History	Principal engineer	Norwegian University of Science and Technology
+"Hårsaker, Karstein"	Department of Natural History	Senior engineer	Norwegian University of Science and Technology
+"Kielland, Øystein Nordeide"	Department of Natural History	Head engineer	Norwegian University of Science and Technology
+"Kjærstad, Gaute"	Department of Natural History	Researcher	Norwegian University of Science and Technology
+"Kolstad, Anders Lorentzen"	Department of Natural History	Research fellow	Norwegian University of Science and Technology
+"Krogh, Randi"	Department of Natural History	Senior executive officer	Norwegian University of Science and Technology
+"Kvernberg, Renate"	Department of Natural History	Office manager	Norwegian University of Science and Technology
+"Lyngstad, Anders"	Department of Natural History	Researcher	Norwegian University of Science and Technology
+"Majaneva, Markus"	Department of Natural History	Post-doctoral research fellow	Norwegian University of Science and Technology
+"Martin, Michael David"	Department of Natural History	Associate professor	Norwegian University of Science and Technology
+"Meleshko, Olena"	Department of Natural History	Research fellow	Norwegian University of Science and Technology
+"Mork, Reidun"	Department of Natural History	Engineer	Norwegian University of Science and Technology
+"Nilsen, Stefan Patrick"	Department of Natural History	Engineer	Norwegian University of Science and Technology
+"Nygård, Malene Østreng"	Department of Natural History	Research fellow	Norwegian University of Science and Technology
+"Perrin, Sam"	Department of Natural History	Research fellow	Norwegian University of Science and Technology
+"Petersen, Tanja Kofod"	Department of Natural History	Research fellow	Norwegian University of Science and Technology
+"Prestø, Tommy"	Department of Natural History	Senior engineer	Norwegian University of Science and Technology
+"Rønning, Lars"	Department of Natural History	Head engineer	Norwegian University of Science and Technology
+"Sjursen, Aslak Darre"	Department of Natural History	Principal engineer	Norwegian University of Science and Technology
+"Skavlan, Bård Jensen"	Department of Natural History	Engineer	Norwegian University of Science and Technology
+"Speed, James David Mervyn"	Department of Natural History	Associate professor	Norwegian University of Science and Technology
+	Department of Natural History	Researcher	Norwegian University of Science and Technology
+"Stenøien, Hans K."	Department of Natural History	Professor	Norwegian University of Science and Technology
+"Stur, Elisabeth"	Department of Natural History	Researcher	Norwegian University of Science and Technology
+"Thingstad, Per Gustav"	Department of Natural History	Associate professor	Norwegian University of Science and Technology
+"Vange, Vibekke"	Department of Natural History	Senior lecturer	Norwegian University of Science and Technology
+"Vuorinen, Katariina"	Department of Natural History	Research fellow	Norwegian University of Science and Technology
+"Wellesen, Gustaaf Jacobus Franciscus"	Department of Natural History	Principal engineer	Norwegian University of Science and Technology
+"Ødegaard, Frode"	Department of Natural History	Associate professor	Norwegian University of Science and Technology
+"Øien, Dag-Inge"	Department of Natural History	Senior engineer	Norwegian University of Science and Technology
